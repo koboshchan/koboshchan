@@ -1,19 +1,15 @@
-# kobosh joei truth on top
+# koboshchan
 
-yo its lucasz228
+Kobosh Joei Truth co founder: since 2023
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kobosh_com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kobosh_com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=koboshchan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=koboshchan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=koboshchan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-telegram @kobosh_com
+---
+[![](https://komarev.com/ghpvc/?username=koboshchan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-discord @kobosh.com 
-
-github @zlc1003 @zlc1004 @zlc1005 @lucasz228
-
-mail kobosh@kobosh.com
-
-
-i love devin gyat
-
-its fucking massive
-
-more massive than low taper fadeeeeeeee
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
